@@ -1,3 +1,7 @@
+// Shapovalov Vladimir
+// gyogas@gmail.com
+// icq: 604-174-562
+
 // Обработка хеша адресной строки
 var urlHash = {
 	removed:'',
